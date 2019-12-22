@@ -1,1 +1,1 @@
-*30 * * * * mc_backups.sh
+*30 * * * * ./mc_backups.sh
