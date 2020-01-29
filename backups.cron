@@ -1,1 +1,1 @@
-*/30 * * * * /home/ubuntu/backups/mc_backups.sh
+00 03 * * * /home/ubuntu/backups/mc_backups.sh
